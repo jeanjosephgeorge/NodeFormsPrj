@@ -1,0 +1,9 @@
+<% artists.forEach((item)=>{ %>
+    <div class="jumbotron mt-5" style="opacity: .8; text-align: center" >
+            <h1 class="display-4"><%= item.name %></h1>
+            <p class="lead"><%= item.origin %></p>
+            <hr class="my-4">
+            <p><%= item.description %></p>
+            <a class="btn btn-primary btn-lg" href="<%= item.website %>" role="button">Website</a>
+          </div>
+<% }) %>

@@ -1,0 +1,33 @@
+{
+    "artists":[{
+        "name" : "Muse",
+        "origin" : "Teignmouth, United Kingdom",
+        "description":"Muse are an English rock band from Teignmouth, Devon, formed in 1994. The band consists of Matt Bellamy, Chris Wolstenholme, and Dominic Howard. Muse signed to Maverick Records and released their debut album, Showbiz, in 1999, showcasing Bellamy's falsetto and a melancholic alternative rock style.",
+        "artwork":"images/muse.jpg",
+        "website" : "https://muse.mu"
+    },{
+        "name" : "John Mayer",
+        "origin" : "Bridgeport, Connecticut",
+        "description":"John Clayton Mayer is an American singer-songwriter, guitarist, and record producer. Born in Bridgeport, Connecticut, Mayer attended Berklee College of Music in Boston, but disenrolled and moved to Atlanta in 1997 with Clay Cook. Together, they formed a short-lived two-man band called Lo-Fi Masters. ",
+        "artwork" : "images/johnmayer.jpeg",
+        "website" : "https://johnmayer.com"
+    },{
+        "name" : "The Corrs",
+        "origin" : "Dundalk, Republic of Ireland",
+        "description":"The Corrs are an Irish band that combine pop rock with traditional Irish themes within their music. The group consists of the Corr siblings, Andrea, Sharon, Caroline, and Jim. They are from Dundalk, County Louth, Ireland.",
+        "artwork":"images/corrs.jpg",
+        "website" : "https://www.thecorrswebsite.com"
+    },{
+        "name" : "Mumford & Sons",
+        "origin" : "London, United Kingdom",
+        "description":"Mumford & Sons are a British band formed in 2007. The band consists of Marcus Mumford, Ben Lovett, Winston Marshall and Ted Dwane. Mumford & Sons have released four studio albums: Sigh No More, Babel, Wilder Mind and Delta.",
+        "artwork":"images/MumfordSons.jpg",
+        "website" : "https://www.mumfordandsons.com/"
+    },{
+        "name" : "Walk Off The Earth",
+        "origin" : "Burlington, Ontario",
+        "description":"Walk off the Earth is a Canadian indie pop band from Burlington, Ontario. They are known for their music videos of covers and originals. The band is well known for its covers of pop genre music on YouTube, making use of instruments such as the ukulele and the theremin, as well as looping samples.",
+        "artwork":"images/walkofftheearth.jpg",
+        "website" : "https://www.walkofftheearth.com/"
+    }]
+}
